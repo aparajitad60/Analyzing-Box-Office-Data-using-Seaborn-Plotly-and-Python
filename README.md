@@ -7,6 +7,7 @@ About the files-
 - The code File holds the code of the Analysis Done.
 - The data file contains train and test data.
 - The Pyplot files holds the Scrrenshots for the Pylots, as in github the plot cant be seen. 
+- Scroll down to get a sneak peek of the Analysing Plots!
 
 This Project is guided by Snehan Kekre.
 
@@ -15,3 +16,17 @@ And I will be adding more to this project, in comming days.
 Happy Learning ! :)
 
 ![](images/01.png)
+![](images/02.png)
+![](images/03.png)
+![](images/04.png)
+
+
+![](images/05.png)
+
+
+![](images/Pyplot%20No.1.png)
+![](images/Pyplot%20No.2.png)
+![](images/Pyplot%20No.3.png)
+![](images/09.png)
+![](images/010.png)
+
